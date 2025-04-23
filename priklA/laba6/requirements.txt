@@ -1,0 +1,5 @@
+graph_generator.py       # Генератор двудольных графов
+hungarian.py             # Реализация венгерского алгоритма
+main.py                  # Основная программа
+requirements.txt         # Зависимости
+numpy>=1.21.0
